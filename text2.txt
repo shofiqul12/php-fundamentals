@@ -1,0 +1,4 @@
+1.Training with live project.
+2. Java is very hard language
+3.PHP is very good.
+4.we are learing web PHP.
